@@ -1,2 +1,0 @@
-# JokerSearch
-Created with CodeSandbox
